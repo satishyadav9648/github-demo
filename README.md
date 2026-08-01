@@ -1,3 +1,3 @@
-# apnacollege-demo
+# github-demo
 This is my first git repository<br>
 author-satish yadav
