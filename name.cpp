@@ -8,6 +8,7 @@ signed main()
   cin.tie(NULL);
 
   cout<<"satish\n";
+  cout<<"feature 4 \n";
 
   return 0;
 }
