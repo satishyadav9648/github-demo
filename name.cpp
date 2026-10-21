@@ -7,7 +7,7 @@ signed main()
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
 
-  cout<<"satish\n";
+  cout<<"satish yadav\n";
 
   return 0;
 }
